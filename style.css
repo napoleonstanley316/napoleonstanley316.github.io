@@ -6,9 +6,27 @@ p {
        background-color: lightgrey;
        }
 
-        .personal {
-                  line-height: 0.5;
-                 }
-                 .personal info {
-                                line-height: 0.5;
-                                }
+  h1 {
+  color: black;
+  font-size: 2em;
+  padding-top: 100px;
+  width: 100%;
+}
+
+  h2 {
+  color: black;
+  font-weight: 100;
+  font-size: 22px;
+  line-height: 24px;
+  padding-bottom: 30px;
+  text-align: left;
+  width: 70%;
+}
+
+  h3 {
+  color: black;
+  font-size: 3em;
+  padding-top: 100px;
+  width: 100%;
+}
+
