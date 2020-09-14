@@ -5,3 +5,10 @@ p {
   body {
        background-color: lightgrey;
        }
+
+        .personal {
+                  line-height: 0.5;
+                 }
+                 .personal info {
+                                line-height: 0.5;
+                                }
