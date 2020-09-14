@@ -9,7 +9,6 @@ p {
   h1 {
   color: black;
   font-size: 2em;
-  padding-top: 100px;
   width: 100%;
 }
 
@@ -25,7 +24,7 @@ p {
   h3 {
   color: black;
   font-size: 3em;
-  padding-top: 50px;
+  padding-top: 30px;
   width: 100%;
 }
 
