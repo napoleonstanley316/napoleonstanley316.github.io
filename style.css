@@ -8,8 +8,9 @@ p {
 
   h1 {
   color: black;
-  font-weight: 100
+  font-weight: 100;
   font-size: 35px;
+    padding-bottm: 1px;
     }
 
   h2 {
