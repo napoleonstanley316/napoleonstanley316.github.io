@@ -35,7 +35,15 @@ h3 {
       }
 
 div.personal {
-  border-radius: 10px 10ps 0 0;
-             }
+	margin-top: 20px;
+	margin-left: 200px;
+	margin-right: 200px;
+
+	padding: 10px 150px 10px 150px;
+
+	border-radius: 15px;
+	background-color: white;
+
+	text-align: left;             }
   
 
