@@ -11,12 +11,14 @@ p {
   color: black;
   font-weight: 250;
   font-size: 20px;
+  margin-top: -10px;
      }
 
 h3 {
   color: black;
   font-weight: 125;
   font-size: 30px;
+  margin-top: -10px;
   }
 
 .heading-support {            
