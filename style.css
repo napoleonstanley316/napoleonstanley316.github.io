@@ -3,7 +3,7 @@ p {
 }
 
   body {
-       background-color: lightgrey;
+       background-color: darkgrey;
        }
 
 
@@ -42,7 +42,7 @@ div.page {
 	padding: 10px 150px 10px 150px;
 
 	border-radius: 15px;
-	background-color: white;
+	background-color: lightgrey;
 
 	text-align: left;             
 	}
