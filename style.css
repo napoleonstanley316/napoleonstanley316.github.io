@@ -9,21 +9,21 @@ p {
 
   h2 {
   color: black;
-  font-weight: 250;
+  font-weight: bold;
   font-size: 20px;
   margin-top: -10px;
      }
 
 h3 {
   color: black;
-  font-weight: 125;
+  font-weight: bold;
   font-size: 30px;
   margin-top: -5px;
   }
 
 .heading-support {            
   color: black;
-  font-weight: 100;
+  font-weight: bold;
   font-size: 20px;
                 }
   
