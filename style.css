@@ -31,7 +31,7 @@ h3 {
   
   color: black;
   font-size: 18px;
-  
+  border-bottom: 1px solid #999;
       }
 
 div.page {
@@ -52,5 +52,6 @@ div.page {
 	margin-top: 500px;
 	margin-left: 700px;
          }
+
 
 
